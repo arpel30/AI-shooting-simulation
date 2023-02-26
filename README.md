@@ -13,3 +13,7 @@ Bullets are long range weapon and used also in case there are no grenades remain
 The damage done by each weapon also varies according to the distance of the hit.
 
 Have fun!
+
+
+https://user-images.githubusercontent.com/48724924/221439764-7f4bf94e-7e33-467d-9afa-ff6b5124c1ad.mp4
+
