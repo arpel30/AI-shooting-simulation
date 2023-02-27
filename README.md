@@ -16,7 +16,7 @@ Have fun!
 
 
 https://user-images.githubusercontent.com/48724924/221439764-7f4bf94e-7e33-467d-9afa-ff6b5124c1ad.mp4
-
+<br>
 At the beginning of the video, you can see two soldiers and a squire for each team (red & green), the soldiers are trying to kill the other team and the squire trying to provide the soldiers with health and ammo while staying alive.
 
 At the end of the video, you can see a green soldier chasing and trying to kill a red squire thats trying to heal itself and stay alive.
